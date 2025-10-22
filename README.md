@@ -27,7 +27,7 @@ It simulates up to `t = 10 s` and `t = 100 s`, and plots the time history of the
 
 ---
 
-### `Homework1_Wang.pdf` / `Homework1.pdf`
+### `Homework1_Wang.pdf`
 The final **report** summarizing all results and analyses for Homework 1.  
 It includes:
 - Pseudocode and derivation of the governing equations  
