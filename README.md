@@ -1,4 +1,4 @@
-# MAE 263F — Homework 2: 
+# MAE 263F — Homework 2: Beam Simulation
 **Author:** Yuchen Wang (Ph.D. in Mechanical Engineering, UCLA)  
 **Date:** October 2025  
 ---
